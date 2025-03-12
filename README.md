@@ -1,2 +1,3 @@
 # Python
-All Pythons Programs
+This repositorie contain
+all Pythons Programs made or practiced by me.
